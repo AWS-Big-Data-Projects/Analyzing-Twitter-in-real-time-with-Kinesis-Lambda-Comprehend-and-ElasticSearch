@@ -4,6 +4,7 @@
  
  ![](images/1_k_HBTukyqzRFxa8HQz-jkA.png)
  
+ 
  We are going to use a basic Python script to obtain real time Tweets thanks to the Twitter API, from the script we’ll put the Tweets directly in a Kinesis Firehose delivery stream where we have a transformation Lambda function, in that moment we are going to obtain the sentiment information using Amazon Comprehend and obtain a clean Twitter comment, finally the Tweet and its sentiment data will be stored in an Elasticsearch domain where we can see real time information using custom charts.
 
 
