@@ -7,7 +7,6 @@ from tweepy import OAuthHandler
 from tweepy import Stream
 from ConfigParser import SafeConfigParser
 
-
 parser = SafeConfigParser()
 parser.read('api_auth.cfg')
 
