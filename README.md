@@ -2,6 +2,7 @@
 
  we are going to set a system to evaluate in real time the sentiment of all Tweets made with a specific Twitter hashtag.
  
+ 
  ![](images/1_k_HBTukyqzRFxa8HQz-jkA.png)
  
  
